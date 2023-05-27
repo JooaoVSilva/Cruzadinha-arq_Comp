@@ -158,3 +158,13 @@ function verificar_17() {
 
     }
 }
+
+function verificar_18() {
+    var resposta_usuario = id_adress_bus.value
+
+    if (resposta_usuario.toUpperCase() != "ADRESS BUS") {
+        alert("Errou")
+    } else {
+
+    }
+}
